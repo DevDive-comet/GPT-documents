@@ -110,17 +110,3 @@ Make sure you have Node version 16 or higher.
 3. Run the app 
 `npm run dev`
 
-
-[How to install the Chrome extension](https://github.com/arc53/docsgpt/wiki#launch-chrome-extension)
-
-
-## [Guides](https://github.com/arc53/docsgpt/wiki)
-
-## [Interested in contributing?](https://github.com/arc53/DocsGPT/blob/main/CONTRIBUTING.md)
-
-## [How to use any other documentation](https://github.com/arc53/docsgpt/wiki/How-to-train-on-other-documentation)
-
-## [How to host it locally (so all data will stay on-premises)](https://github.com/arc53/DocsGPT/wiki/How-to-use-different-LLM's#hosting-everything-locally)
-
-Built with [🦜️🔗 LangChain](https://github.com/hwchase17/langchain)
-
