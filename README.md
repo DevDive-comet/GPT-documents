@@ -38,11 +38,6 @@ You can find our [Roadmap](https://github.com/orgs/arc53/projects/2) here, pleas
 
 ## [DocsGPT-7B](https://huggingface.co/Arc53/DocsGPT-7B) Our finetuned model to help you keep your data private, fine-tuned on top on MPT-7b
 
-## [Live preview](https://docsgpt.arc53.com/)
-
-## [Join Our Discord](https://discord.gg/n5BX8dh8rU)
-
-
 ## Project structure
 - Application - Flask app (main application)
 
